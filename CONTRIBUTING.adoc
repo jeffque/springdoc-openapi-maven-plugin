@@ -7,7 +7,7 @@ something, or simply want to hack on the code this document should help you get 
 
 
 == Code of Conduct
-This project adheres to the Contributor Covenant link:CODE_OF_CONDUCT.adoc[code of
+This project adheres to the Contributor Covenant link:https://www.contributor-covenant.org/version/3/0/code_of_conduct/[code of
 conduct]. By participating, you are expected to uphold this code. 
 
 
